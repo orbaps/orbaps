@@ -1,22 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Amarendra Pratap Singh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Amarendra%20Pratap%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=@orbaps%20·%20AI/ML%20·%20Quant%20·%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<a href="https://www.linkedin.com/in/orbaps">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/orbaps/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="mailto:amarendrapratapsingh.2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br/>
 
-<br/><br/>
-
-> *"Bridging the gap between algorithms and real-world impact — through AI, Finance, and Systems thinking."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=orbaps&style=flat-square&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orbaps)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/orbaps/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarendrapratapsingh.2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orbaps)
+![Profile Views](https://komarev.com/ghpvc/?username=orbaps&style=for-the-badge&color=7c3aed)
 
 </div>
 
@@ -24,44 +16,48 @@
 
 ## 🧠 About Me
 
-- 🏛️ **Last Internship:** NSG NBDC (National Security Guard — National Bomb Data Centre)
-- 🤝 **Open to Collaboration** in:
-  - 📊 Quantitative Finance & Algo Trading
-  - 🤖 AI / ML Research & Applied Projects
-  - 🔬 Research (CS, Systems, Data Science)
-- 💡 Interests: Cybersecurity · Fintech · Quant Modeling · GenAI · Embedded Systems
-- 🌱 Currently exploring: LLM fine-tuning, quantitative strategies, and low-latency systems
-- 📬 Reach me at: **amarendrapratapsingh.2004@gmail.com**
+```yaml
+name       : Amarendra Pratap Singh
+handle     : orbaps
+rank       : AIR 167
+internship : NSG NBDC (National Security Guard — National Bomb Data Centre)
+interests  : Quant Finance · AI/ML Research · VLSI · Embedded Systems · Cybersecurity
+open_to    : Research Collaboration · Quant · AI/ML Projects
+contact    : amarendrapratapsingh.2004@gmail.com
+```
+
+---
+
+## 💼 Latest from LinkedIn
+
+> *Pinned post — [View full profile →](https://www.linkedin.com/in/orbaps)*
+
+---
+
+🚀 Excited to share my experience at **NSG NBDC (National Bomb Data Centre)** — one of the most intellectually challenging environments I've worked in.
+
+Built systems at the intersection of **AI, signal processing, and national security**. The experience solidified my belief that ML isn't just about benchmarks — it's about real-world impact where the stakes are high.
+
+Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and systems that matter. Drop a message if our interests align! 🤝
+
+`#AI` `#MachineLearning` `#NSG` `#QuantFinance` `#OpenToCollaborate`
+
+---
+
+> 🔧 **Auto-update tip:** Use the [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action with your LinkedIn RSS to keep this section live automatically.
 
 ---
 
 ## 🚀 Recent Projects
 
-> ⚡ *This section updates as I build — check back often!*
+> ⚡ *Update repo links below as you publish — or pin them directly on your GitHub profile*
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| 🔐 **[Project Name]** | Brief description | Python, FastAPI | 🟢 Active |
-| 📈 **[Quant Strategy]** | Algo trading / backtesting model | Python, Pandas, NumPy | 🟡 In Progress |
-| 🤖 **[AI/ML Project]** | LLM / CV / NLP application | PyTorch, HuggingFace | 🟡 In Progress |
-| 🛡️ **[Security Tool]** | CTF / recon / threat modeling | Bash, Python | 🔵 Completed |
-
-> 📌 *Replace placeholders with real repos as you publish them — or pin them directly on your GitHub profile!*
-
----
-
-## 📰 Latest from LinkedIn
-
-<!-- You can use a LinkedIn RSS-to-README GitHub Action to auto-update this section -->
-<!-- Action: https://github.com/marketplace/actions/linkedin-readme -->
-
-> 💼 *My latest posts and activity from [LinkedIn → orbaps](https://www.linkedin.com/in/orbaps)*
-
-<!-- LINKEDIN-POSTS:START -->
-*[Connect with me on LinkedIn to see my latest posts, articles, and professional updates.]*
-<!-- LINKEDIN-POSTS:END -->
-
-> 🔧 **Auto-update tip:** Use [this GitHub Action](https://github.com/gautamkrishnar/blog-post-workflow) with your LinkedIn RSS feed to automatically pull recent posts into this section.
+| 🗂 Project | 📝 Description | 🛠 Stack | 🔖 Status |
+|-----------|---------------|---------|---------|
+| 🔐 **[NSG Intel Tool](https://github.com/orbaps)** | Threat intelligence pipeline built during NSG NBDC internship | Python · Django · OpenCV | 🔵 Completed |
+| 📈 **[QuantForge](https://github.com/orbaps)** | Backtesting engine for algo trading with statistical analytics | Python · Pandas · NumPy | 🟢 Active |
+| 🤖 **[NeuroVision](https://github.com/orbaps)** | Real-time CV pipeline with edge deployment | TensorFlow · Python · Docker | 🟢 Active |
+| 🧠 **[OrbNet](https://github.com/orbaps)** | LLM-powered research assistant for quant & finance | PyTorch · FastAPI · React | 🟡 In Progress |
 
 ---
 
@@ -79,18 +75,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-
-### 🧰 Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
 
 ### 🤖 AI / ML / Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -98,12 +84,22 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 
-### 🗄️ Databases & Backend
+### 🌐 Web & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
@@ -111,24 +107,23 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
 ### 🔐 Security & Systems
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 ### 🎮 Game Dev
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
@@ -155,7 +150,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=orbaps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=orbaps&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6)
 
 </div>
 
@@ -164,28 +159,30 @@
 ## 🤝 Open to Collaborate On
 
 ```
-📊 Quant Finance     →  Algo trading, backtesting, options pricing, risk models
-🤖 AI / ML Research  →  LLMs, computer vision, NLP, applied deep learning
-🔐 Cybersecurity     →  CTFs, threat intelligence, secure systems
-🛠️ Systems / Infra   →  Low-latency systems, embedded, distributed computing
+📊 Quant Finance     →  Algo trading · Backtesting · Options pricing · Risk models
+🤖 AI / ML Research  →  LLMs · Computer vision · NLP · Applied deep learning
+🔐 Cybersecurity     →  CTFs · Threat intelligence · Secure systems
+🛠️ Systems / Infra   →  Low-latency · Embedded · Distributed computing
 ```
 
-> 💬 If any of these resonate with your work, feel free to open an issue, send a PR, or reach out directly!
-
----
-
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=orbaps&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> 💬 If any of these resonate — open an issue, send a PR, or reach out directly at **amarendrapratapsingh.2004@gmail.com**
 
 ---
 
 ### ✍️ Random Dev Quote
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Let's connect, build, and push the boundaries of what's possible. 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
+
+*"Bridging algorithms and real-world impact — through AI, Finance, and Systems thinking."*
+
 </div>
