@@ -12,29 +12,18 @@
 
 </div>
 
----
-
 ## 🧠 About Me
 
 ```yaml
 name       : Amarendra Pratap Singh
 handle     : orbaps
-rank       : AIR 167
 internship : NSG NBDC (National Security Guard — National Bomb Data Centre)
 interests  : Quant Finance · AI/ML Research · VLSI · Embedded Systems · Cybersecurity
 open_to    : Research Collaboration · Quant · AI/ML Projects
 contact    : amarendrapratapsingh.2004@gmail.com
 ```
 
----
 
-## 💼 Latest from LinkedIn
-
-> *Pinned post — [View full profile →](https://www.linkedin.com/in/orbaps)*
-
----
-
-🚀 Excited to share my experience at **NSG NBDC (National Bomb Data Centre)** — one of the most intellectually challenging environments I've worked in.
 
 Built systems at the intersection of **AI, signal processing, and national security**. The experience solidified my belief that ML isn't just about benchmarks — it's about real-world impact where the stakes are high.
 
@@ -42,16 +31,8 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 `#AI` `#MachineLearning` `#NSG` `#QuantFinance` `#OpenToCollaborate`
 
----
-
-> 🔧 **Auto-update tip:** Use the [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action with your LinkedIn RSS to keep this section live automatically.
-
----
 
 ## 🚀 Recent Projects
-
-> ⚡ *Update repo links below as you publish — or pin them directly on your GitHub profile*
-
 | 🗂 Project | 📝 Description | 🛠 Stack | 🔖 Status |
 |-----------|---------------|---------|---------|
 | 🔐 **[NSG Intel Tool](https://github.com/orbaps)** | Threat intelligence pipeline built during NSG NBDC internship | Python · Django · OpenCV | 🔵 Completed |
@@ -59,7 +40,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 | 🤖 **[NeuroVision](https://github.com/orbaps)** | Real-time CV pipeline with edge deployment | TensorFlow · Python · Docker | 🟢 Active |
 | 🧠 **[OrbNet](https://github.com/orbaps)** | LLM-powered research assistant for quant & finance | PyTorch · FastAPI · React | 🟡 In Progress |
 
----
 
 ## 💻 Tech Stack
 
@@ -130,8 +110,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -144,7 +122,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -154,7 +131,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 </div>
 
----
 
 ## 🤝 Open to Collaborate On
 
@@ -167,17 +143,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 > 💬 If any of these resonate — open an issue, send a PR, or reach out directly at **amarendrapratapsingh.2004@gmail.com**
 
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
 
