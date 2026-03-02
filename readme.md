@@ -80,10 +80,10 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=orbaps&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=39ff14&text_color=888888&icon_color=39ff14&bg_color=00000000"/>
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=orbaps&theme=transparent&hide_border=true&ring=39ff14&fire=ff3b3b&currStreakLabel=39ff14&sideLabels=888888&dates=444444&background=00000000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=orbaps&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=39ff14&text_color=aaaaaa&icon_color=39ff14"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=orbaps&theme=github-dark-blue&hide_border=true&ring=39ff14&fire=ff4444&currStreakLabel=39ff14&sideLabels=aaaaaa&dates=555555"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbaps&theme=transparent&hide_border=true&title_color=39ff14&text_color=888888&layout=compact&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbaps&theme=github_dark&hide_border=true&title_color=39ff14&text_color=aaaaaa&layout=compact"/>
 
 </div>
 
