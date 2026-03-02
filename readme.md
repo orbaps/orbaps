@@ -24,7 +24,7 @@
 
 <br/>
 
----
+
 
 <div align="center">
 
@@ -36,8 +36,6 @@ If it's not shipping, it doesn't exist.
 
 </div>
 
----
-
 <br/>
 
 ## `// 00 · ABOUT`
@@ -45,7 +43,6 @@ If it's not shipping, it doesn't exist.
 ```yaml
 handle     : orbaps
 name       : Amarendra Pratap Singh
-rank       : AIR 167
 internship : NSG NBDC — National Security Guard, National Bomb Data Centre
 stack      : Python · Rust · Go · C++ · PyTorch · TensorFlow · React · FastAPI
 interests  : Quantitative Finance · AI/ML Research · VLSI · Embedded · Cybersecurity
@@ -56,19 +53,6 @@ status     : "If it's not on the schedule, it doesn't exist."
 
 <br/>
 
----
-
-## `// 01 · LATEST FROM LINKEDIN`
-
-<div align="center">
-
-> *[@orbaps on LinkedIn](https://www.linkedin.com/in/orbaps) · Pinned Post*
-
-</div>
-
----
-
-🚀 Excited to share my experience at **NSG NBDC (National Bomb Data Centre)** — one of the most intellectually challenging environments I've worked in.
 
 Built systems at the intersection of **AI, signal processing, and national security**. The experience solidified my belief that ML isn't just about benchmarks — it's about real-world impact where the stakes are high.
 
@@ -78,32 +62,21 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <div align="center">
 
-**[→ View Full Profile on LinkedIn](https://www.linkedin.com/in/orbaps)**
-
-</div>
-
-> 🔧 **Auto-update:** Use the [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action to pull your latest LinkedIn posts here automatically.
-
-<br/>
-
----
-
-## `// 02 · RECENT PROJECTS`
+## `// 01 · RECENT PROJECTS`
 
 | &nbsp; | PROJECT | DESCRIPTION | STACK | STATUS |
 |:------:|---------|-------------|-------|:------:|
-| 🔐 | **[NSG Intel Tool](https://github.com/orbaps)** | Threat intelligence pipeline · Signal processing meets national security | `Python` `Django` `OpenCV` | ![](https://img.shields.io/badge/COMPLETED-3b82f6?style=flat-square) |
-| 📈 | **[QuantForge](https://github.com/orbaps)** | Backtesting engine for algo trading · Statistical analytics & risk modeling | `Python` `Pandas` `NumPy` | ![](https://img.shields.io/badge/ACTIVE-brightgreen?style=flat-square) |
-| 🤖 | **[NeuroVision](https://github.com/orbaps)** | Real-time CV pipeline · TensorFlow meets embedded hardware | `TensorFlow` `Python` `Docker` | ![](https://img.shields.io/badge/ACTIVE-brightgreen?style=flat-square) |
-| 🧠 | **[OrbNet](https://github.com/orbaps)** | LLM-powered quant research assistant · Your personal AI analyst | `PyTorch` `FastAPI` `React` | ![](https://img.shields.io/badge/IN_PROGRESS-yellow?style=flat-square) |
+| 🤖 | **[Recruit-AI](https://github.com/orbaps/Recruit-AI-)** | End-to-end full-stack app for Innomatics Research Labs · Automates resume screening for AI/ML & Data Science roles | `Python` `AI/ML` `Full-Stack` | ![](https://img.shields.io/badge/COMPLETED-3b82f6?style=flat-square) |
+| 💬 | **[complain-agent-fintech](https://github.com/orbaps/complain-agent-fintech)** | AI-powered complaint handling agent for fintech · Intelligent routing & resolution pipeline | `Python` `LLM` `Fintech` | ![](https://img.shields.io/badge/COMPLETED-3b82f6?style=flat-square) |
+| 📚 | **[Studybuddy-AI](https://github.com/orbaps/Studybuddy-AI)** | AI-powered study assistant · Personalized learning & knowledge companion | `Python` `AI` `NLP` | ![](https://img.shields.io/badge/ACTIVE-brightgreen?style=flat-square) |
+| 🌐 | **[Portfolio](https://github.com/orbaps/1portfolio)** | Personal portfolio site · [Live →](https://amarendrapratap.netlify.app/) | `HTML` `CSS` `JS` | ![](https://img.shields.io/badge/LIVE-brightgreen?style=flat-square) |
 
-> 📌 *Replace placeholder links with actual repo URLs · Pin repos on your GitHub profile for live visibility*
+> 📌 *More projects being built — watch this space · [View all repos →](https://github.com/orbaps?tab=repositories)*
 
 <br/>
 
----
 
-## `// 03 · GITHUB STATS`
+## `// 02 · GITHUB STATS`
 
 <div align="center">
 
@@ -116,9 +89,7 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <br/>
 
----
-
-## `// 04 · GITHUB TROPHIES`
+## `// 03 · GITHUB TROPHIES`
 
 <div align="center">
 
@@ -128,9 +99,8 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <br/>
 
----
 
-## `// 05 · TECH STACK`
+## `// 04 · TECH STACK`
 
 **LANGUAGES**
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=flat-square&logo=python&logoColor=000)
@@ -195,9 +165,8 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <br/>
 
----
 
-## `// 06 · OPEN TO COLLABORATE`
+## `// 05 · OPEN TO COLLABORATE`
 
 ```
 📊  QUANT FINANCE    →  Algo trading · Backtesting · Options pricing · Risk models
@@ -214,17 +183,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <br/>
 
----
-
-### `// RANDOM DEV QUOTE`
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
 
