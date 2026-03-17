@@ -69,7 +69,7 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 | 🤖 | **[Recruit-AI](https://github.com/orbaps/Recruit-AI-)** | End-to-end full-stack app for Innomatics Research Labs · Automates resume screening for AI/ML & Data Science roles | `Python` `AI/ML` `Full-Stack` | ![](https://img.shields.io/badge/COMPLETED-3b82f6?style=flat-square) |
 | 💬 | **[complain-agent-fintech](https://github.com/orbaps/complain-agent-fintech)** | AI-powered complaint handling agent for fintech · Intelligent routing & resolution pipeline | `Python` `LLM` `Fintech` | ![](https://img.shields.io/badge/COMPLETED-3b82f6?style=flat-square) |
 | 📚 | **[Studybuddy-AI](https://github.com/orbaps/Studybuddy-AI)** | AI-powered study assistant · Personalized learning & knowledge companion | `Python` `AI` `NLP` | ![](https://img.shields.io/badge/ACTIVE-brightgreen?style=flat-square) |
-| 🌐 | **[Portfolio](https://github.com/orbaps/1portfolio)** | Personal portfolio site · [Live →](https://amarendrapratap.netlify.app/) | `HTML` `CSS` `JS` | ![](https://img.shields.io/badge/LIVE-brightgreen?style=flat-square) |
+| 🌐 | **[Portfolio](https://github.com/orbaps/1portfolio)** | Personal portfolio site · [Live →](https://amarendrapratapsingh.netlify.app/) | `HTML` `CSS` `JS` | ![](https://img.shields.io/badge/LIVE-brightgreen?style=flat-square) |
 
 > 📌 *More projects being built — watch this space · [View all repos →](https://github.com/orbaps?tab=repositories)*
 
