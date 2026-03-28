@@ -24,8 +24,6 @@
 
 <br/>
 
-
-
 <div align="center">
 
 ## CODE ON *AUTOPILOT.*
@@ -53,7 +51,6 @@ status     : "If it's not on the schedule, it doesn't exist."
 
 <br/>
 
-
 Built systems at the intersection of **AI, signal processing, and national security**. The experience solidified my belief that ML isn't just about benchmarks — it's about real-world impact where the stakes are high.
 
 Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and systems that matter. Drop a message if our interests align! 🤝
@@ -75,7 +72,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <br/>
 
-
 ## `// 02 · GITHUB STATS`
 
 <div align="center">
@@ -89,16 +85,55 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <br/>
 
-## `// 03 · GITHUB TROPHIES`
+
+## `// 03 · KAGGLE`
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=orbaps&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6)
+```yaml
+platform   : Kaggle
+profile    : kaggle.com/amarendrapratap
+focus      : Machine Learning · Data Science · Competitions
+goal       : Top ranking in Kaggle competitions
+strength   : Feature engineering · Modeling · Applied ML
+status     : Actively building & competing
+```
+
+### 🏅 COURSE COMPLETION BADGES
+
+[![Python](https://img.shields.io/badge/🐍%20Python-Completed-blueviolet?style=flat-square)](https://www.kaggle.com/learn/python)
+[![Intro to ML](https://img.shields.io/badge/🤖%20Intro%20to%20ML-Completed-blueviolet?style=flat-square)](https://www.kaggle.com/learn/intro-to-machine-learning)
+[![Data Visualization](https://img.shields.io/badge/📊%20Data%20Visualization-Completed-blueviolet?style=flat-square)](https://www.kaggle.com/learn/data-visualization)
+[![Intro to SQL](https://img.shields.io/badge/🗄️%20Intro%20to%20SQL-Completed-orange?style=flat-square)](https://www.kaggle.com/learn/intro-to-sql)
+[![Intermediate ML](https://img.shields.io/badge/⚙️%20Intermediate%20ML-Completed-blueviolet?style=flat-square)](https://www.kaggle.com/learn/intermediate-machine-learning)
+[![Pandas](https://img.shields.io/badge/🐼%20Pandas-Completed-blueviolet?style=flat-square)](https://www.kaggle.com/learn/pandas)
+[![ML Explainability](https://img.shields.io/badge/🔍%20ML%20Explainability-Completed-orange?style=flat-square)](https://www.kaggle.com/learn/machine-learning-explainability)
+[![Intro to Deep Learning](https://img.shields.io/badge/🧠%20Intro%20to%20Deep%20Learning-Completed-gold?style=flat-square)](https://www.kaggle.com/learn/intro-to-deep-learning)
+
+<br/>
+
+### 🏆 KAGGLE TROPHIES
+
+| 🥇 | ACHIEVEMENT | TIER |
+|:---:|-------------|:----:|
+| 🐍 | **Python** | Contributor |
+| 🤖 | **Intro to Machine Learning** | Contributor |
+| 📊 | **Data Visualization** | Contributor |
+| 🗄️ | **Intro to SQL** | Contributor |
+| ⚙️ | **Intermediate Machine Learning** | Contributor |
+| 🐼 | **Pandas** | Contributor |
+| 🔍 | **Machine Learning Explainability** | Contributor |
+| 🧠 | **Intro to Deep Learning** | Contributor |
+
+**`8 / 8 BADGES EARNED`** &nbsp;·&nbsp; **`CONTRIBUTOR TIER`**
+
+<br/>
+
+[![Kaggle Profile](https://img.shields.io/badge/VIEW%20FULL%20KAGGLE%20PROFILE-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amarendrapratap)
 
 </div>
 
 <br/>
-
 
 ## `// 04 · TECH STACK`
 
@@ -165,7 +200,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 
 <br/>
 
-
 ## `// 05 · OPEN TO COLLABORATE`
 
 ```
@@ -182,7 +216,6 @@ Now actively looking to collaborate on **Quant Finance, AI/ML Research**, and sy
 </div>
 
 <br/>
-
 
 <div align="center">
 
